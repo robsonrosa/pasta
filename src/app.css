@@ -1,0 +1,52 @@
+#direita {
+    
+    position: absolute;
+    right: 100px;
+    width: 250px;
+    transform: rotateY(180deg);
+    top: 300px;
+}
+
+#esquerda {
+    position: absolute;
+    left: 0px;
+    width: 250px;
+    top: 300px;
+}
+
+.p1 {
+    
+    position: absolute;
+    right: 50px;
+    width: 250px;
+    top: 200px
+}
+
+.p2 {
+    position: absolute;
+    left: 150px;
+    width: 250px;
+    top: 200px
+}
+
+.n1 {
+
+    position: absolute;
+    right: 50px;
+    width: 250px;
+    top: 230px
+
+}
+
+.n2 {
+    position: absolute;
+    left: 150px;
+    width: 250px;
+    top: 230px
+}
+
+.select {
+    font-family: 'Press Start 2P';
+    background-color: brown;
+    text-align: center;
+}
